@@ -7,7 +7,7 @@ command -v curl > /dev/null 2>&1 || { echo >&2 "Curl is not installed ! Install 
 command -v ssh > /dev/null 2>&1 || { echo >&2 "Openssh is not installed ! Install it"; exit 1; }
 command -v unzip > /dev/null 2>&1 || { echo >&2 "Unzip is not installed ! Install it"; exit 1; }
 }
-banner () {
+author () {
 clear
 printf "\e[33;1m PHISHING TOOL \e[33;1m \n"
 printf "\e[33;1m USE THIS FOR LEGAL PURPOSE \e[33;1m \n"
@@ -443,7 +443,7 @@ printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;96m Saved:\e[0m\e[1;93m 
 printf "\n"
 printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;93m Waiting for Next Login Info,\e[0m\e[1;96m Ctrl + C to exit.\e[0m\n"
 }
-banner
+author
 deps
 menu
 
