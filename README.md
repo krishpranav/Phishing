@@ -9,6 +9,6 @@ Steps to run this tool:
   
   100% working on linux
   and tested on linux
-  Find any error mail me: krisna.pranav@gmail.com
+  If you find any error mail me: krisna.pranav@gmail.com
   
   TOOL IS CREATED BY KRISHNA PRANAV
