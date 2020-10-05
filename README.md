@@ -7,7 +7,7 @@ This tool will steal the credentails of a person
   - sudo chmod 777 *
   - bash phishing.sh
   
-# Steps run this tool on mac:
+# Steps to run this tool on mac:
 - git clone https://github.com/krishpranav/Phishing
 - cd Phishing
 - sudo chmod 777 *
@@ -15,7 +15,13 @@ This tool will steal the credentails of a person
 - bash phishing.sh
 - if you have any doubt means check out reference down below
 
-
+# Steps to run this tool on android(termux):
+- pkg update
+- pkg install git 
+- git clone https://github.com/krishpranav/Phishing
+- cd Phishing
+- bash install.sh
+- bash phishing.sh
 
 
 # Reference
