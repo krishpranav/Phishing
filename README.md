@@ -13,6 +13,12 @@ This tool will steal the credentails of a person
 - sudo chmod 777 *
 - open a new terminal and type ./ngrok http 80
 - bash phishing.sh
+- if you have any doubt means check out reference down below
+
+
+
+
+# Reference
 <img src="solution.png"></img>
 
   TOOL IS CREATED BY KRISHNA PRANAV
