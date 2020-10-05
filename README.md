@@ -1,14 +1,18 @@
 # Phishing
 This tool will steal the credentails of a person
 
-Steps to run this tool:
-  1. git clone https://github.com/krishpranav/Phishing
-  2. cd Phishing
-  3. sudo chmod 777 *
-  4. bash phishing.sh
+# Steps to run this tool on linux:
+  - git clone https://github.com/krishpranav/Phishing
+  - cd Phishing
+  - sudo chmod 777 *
+  - bash phishing.sh
   
-  100% working on linux
-  and tested on linux
-  If you find any error mail me: krisna.pranav@gmail.com
-  
+# Steps run this tool on mac:
+- git clone https://github.com/krishpranav/Phishing
+- cd Phishing
+- sudo chmod 777 *
+- open a new terminal and type ./ngrok http 80
+- bash phishing.sh
+<img src="solution.png"></img>
+
   TOOL IS CREATED BY KRISHNA PRANAV
