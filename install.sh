@@ -4,13 +4,18 @@ echo "UPDATING"
 apt update
 clear
 echo "INSTALLING PHP"
-apt install php
+sudo apt install php
 clear
 echo "INSTALLING OpenSSH"
-apt install openssh
+sudo apt install openssh
 clear
 echo "INSTALLING UNZIP"
-apt install unzip
+sudo apt install unzip
 clear
+echo "INSTALLING WGET"
+sudo apt install wget
+clear
+echo "INSTALLING CURL"
+sudo apt install curl
 echo "SUCCESSFULL INSTALLED ALL DEPDENDENCIES"
 echo "NOW RUN bash phishing.sh"
